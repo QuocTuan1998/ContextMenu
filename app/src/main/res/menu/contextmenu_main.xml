@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mniBold"
+        android:title="in đậm"/>
+    <item
+        android:id="@+id/mnuRed"
+        android:title="tô chữ màu đỏ"/>
+    <item
+        android:id="@+id/mnuDelete"
+        android:title="Xóa"/>
+</menu>
